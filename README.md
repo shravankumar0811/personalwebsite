@@ -1,2 +1,2 @@
 # personalwebsite
-# visit personalwebsite https://niveditaprity.github.io/personalwebsite/
+# visit personalwebsite https://shravankumar0811.github.io/personalwebsite/
